@@ -1,6 +1,6 @@
 # ShareIT
 
-[Your App Name] is a real-time, peer-to-peer file sharing application built with a modern web stack. It allows users to effortlessly share files directly with one another without the need for a central server to store the files, ensuring privacy and speed.
+ShareIT is a real-time, peer-to-peer file sharing application built with a modern web stack. It allows users to effortlessly share files directly with one another without the need for a central server to store the files, ensuring privacy and speed.
 
 ## Features
 
