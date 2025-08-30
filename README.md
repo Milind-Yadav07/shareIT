@@ -24,13 +24,6 @@ ShareIT is a real-time, peer-to-peer file sharing application built with a moder
 - **Database:**
   - **MongoDB:** A NoSQL database used for storing user information and file metadata.
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js (v14.x or later)
-- npm or yarn
-- MongoDB (running locally or a cloud instance like MongoDB Atlas)
 
 ### Installation
 
