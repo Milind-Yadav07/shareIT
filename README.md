@@ -29,49 +29,29 @@ ShareIT is a real-time, peer-to-peer file sharing application built with a moder
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[your-username]/[your-repo-name].git
-    cd [your-repo-name]
+    git clone
     ```
 
 2.  **Install frontend dependencies:**
     ```bash
-    cd client
     npm install
-    # or
-    yarn install
     ```
 
 3.  **Install backend dependencies:**
     ```bash
-    cd ../server
     npm install
-    # or
-    yarn install
-    ```
-
-4.  **Configure environment variables:**
-    Create a `.env` file in the `server` directory and add the following:
-    ```
-    MONGO_URI=[Your MongoDB Connection String]
-    PORT=5000
     ```
 
 ### Running the Application
 
 1.  **Start the backend server:**
     ```bash
-    cd server
     npm start
-    # or
-    yarn start
     ```
 
 2.  **Start the frontend development server:**
     ```bash
-    cd client
     npm start
-    # or
-    yarn start
     ```
 
 3.  **Open your browser:**
