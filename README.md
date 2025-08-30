@@ -59,8 +59,6 @@ ShareIT is a real-time, peer-to-peer file sharing application built with a moder
 
 ## How It Works
 
-[Your App Name] leverages WebRTC for direct peer-to-peer communication. When two users want to share a file, the process is as follows:
-
 1.  **Signaling:** The frontend (React) communicates with the backend (Node.js) to exchange metadata required to establish a peer-to-peer connection. This metadata includes things like network addresses and session descriptions (SDPs).
 2.  **Connection Establishment:** Once the signaling is complete, the WebRTC API takes over to create a direct data channel between the two browsers.
 3.  **File Transfer:** The file is then sent directly from one user's browser to the other's through this data channel. The server is only used to facilitate the initial connection and is not involved in the actual file transfer.
@@ -69,12 +67,3 @@ ShareIT is a real-time, peer-to-peer file sharing application built with a moder
 
 We welcome contributions! Please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.
-
----
-
-**[Optional: Add contact information or links]**
-- [Your Name] - [Your Website/Portfolio]
-- [Project Link] - [e.g., `https://[your-app-name].com`]
