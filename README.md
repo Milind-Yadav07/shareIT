@@ -24,9 +24,6 @@ ShareIT is a real-time, peer-to-peer file sharing application built with a moder
 - **Database:**
   - **MongoDB:** A NoSQL database used for storing user information and file metadata.
 
-- **Real-Time Communication:**
-  - **WebRTC (Web Real-Time Communication):** A collection of APIs for enabling real-time communication between browsers.
-
 ## Getting Started
 
 ### Prerequisites
