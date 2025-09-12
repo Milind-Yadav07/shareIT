@@ -45,12 +45,12 @@ ShareIT is a real-time, peer-to-peer file sharing application built with a moder
 ### Running the Application
 
 1.  **Start the backend server:**
-    ```bash
+    ```
     npm start
     ```
 
 2.  **Start the frontend development server:**
-    ```bash
+    ```
     npm start
     ```
 
