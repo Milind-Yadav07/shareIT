@@ -28,17 +28,17 @@ ShareIT is a real-time, peer-to-peer file sharing application built with a moder
 ### Installation
 
 1.  **Clone the repository:**
-    ```bash
+    ```
     git clone
     ```
 
 2.  **Install frontend dependencies:**
-    ```bash
+    ```
     npm install
     ```
 
 3.  **Install backend dependencies:**
-    ```bash
+    ```
     npm install
     ```
 
