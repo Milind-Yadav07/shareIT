@@ -56,7 +56,7 @@
 
 
 ### 🔍 How It Works
-- Signaling Phase: React frontend communicates with the Node.js backend to exchange connection metadata (SDPs, ICE candidates).
+- Signaling Phase: React frontend communicates with the Node.js backend to exchange connection metadata.
 - Connection Setup: WebRTC establishes a direct data channel between users.
 - File Transfer: Files are sent directly via the data channel—no server involvement in the actual transfer.
 
