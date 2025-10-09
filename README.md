@@ -2,6 +2,7 @@
 
 **ShareIT** is a blazing-fast, privacy-first file sharing app built for the modern web. It enables users to transfer files directly between browsers using peer-to-peer connections—no central server, no storage delays, just instant sharing.
 
+
 ## ✨ Key Features
 
 -  **Peer-to-Peer Sharing:** Powered by WebRTC for secure, direct browser-to-browser communication.
@@ -10,6 +11,7 @@
 -  **Robust Backend:** Node.js handles signaling and connection orchestration.
 -  **Scalable Storage:** MongoDB manages user sessions and metadata efficiently.
 
+
 ## 🧰 Tech Stack
 
 | Layer      | Technologies Used |
@@ -17,6 +19,7 @@
 | **Frontend** | React.js, HTML5, CSS3 |
 | **Backend**  | Node.js, Express.js, Socket.io/WebSockets |
 | **Database** | MongoDB |
+
 
 ### Installation
 
@@ -35,6 +38,7 @@
     npm install
     ```
 
+
 ### Running the Application
 
 1.  **Start the backend server:**
@@ -50,10 +54,12 @@
 3.  **Open your browser:**
     The application will be available at `http://localhost:3000`.
 
+
 ### 🔍 How It Works
 - Signaling Phase: React frontend communicates with the Node.js backend to exchange connection metadata (SDPs, ICE candidates).
 - Connection Setup: WebRTC establishes a direct data channel between users.
 - File Transfer: Files are sent directly via the data channel—no server involvement in the actual transfer.
+
 
 ### 🤝 Contributing
 We love open-source collaboration!
